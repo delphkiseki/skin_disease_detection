@@ -1,0 +1,16 @@
+# Données lourdes et checkpoints
+data/
+*.h5
+*.pth
+*.onnx
+
+# Environnement Python et caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Notebooks & Onyxia
+.ipynb_checkpoints/
+.DS_Store
+EOT
